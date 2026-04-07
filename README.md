@@ -47,4 +47,9 @@ Pandas provides powerful tools for handling datasets, including filtering, aggre
 4. Analyze key patterns  
 5. Visualize results using Matplotlib  
 
-
+## 📂 Project Structure
+  - Pandas + CSV
+     - CSV file
+     - Jupyter Notebook
+  - Pandas + HTML
+  - Pandas + Kaggle.com dataset
